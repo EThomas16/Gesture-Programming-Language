@@ -38,7 +38,7 @@ namespace Test_Wpf {
             String cmdText = "Insert output file path here";
             Process cmd = new Process();
             //Change this to correct directory
-            cmd.StartInfo = new ProcessStartInfo(@"C:/Python36/python.exe", cmdText) {
+            cmd.StartInfo = new ProcessStartInfo(@"Insert Python path here", cmdText) {
                 RedirectStandardOutput = false,
                 UseShellExecute = false,
                 CreateNoWindow = false

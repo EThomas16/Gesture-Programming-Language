@@ -26,7 +26,7 @@ namespace Test_Wpf {
         }
 
         private void pythonCompiler() {
-            String file_name = @"C:/Users/Erik/Documents/Interface_Output/py.py";
+            String file_name = @"Insert output file path here";
             if (!System.IO.File.Exists(file_name)) {
                 using (System.IO.FileStream fs = System.IO.File.Create(file_name)) {
                     Byte[] info = new UTF8Encoding(true).GetBytes("print(\"hello\")\nprint(\"new line\")\ninput(\"waiting\")");
@@ -35,7 +35,7 @@ namespace Test_Wpf {
             }
 
 
-            String cmdText = "C:/Users/Erik/Documents/Interface_Output/py.py";
+            String cmdText = "Insert output file path here";
             Process cmd = new Process();
             //Change this to correct directory
             cmd.StartInfo = new ProcessStartInfo(@"C:/Python36/python.exe", cmdText) {

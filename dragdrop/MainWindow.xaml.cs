@@ -29,6 +29,9 @@ namespace DragDrop
 
         Thickness _margin = new Thickness();
         String currentDrag = "";
+
+        List<Button> imports = new List<Button>();
+
         public MainWindow()
         {
             InitializeComponent();
@@ -156,19 +159,60 @@ namespace DragDrop
             if (m_MouseY > importT && m_MouseY < importB && m_MouseX > importL && m_MouseX < importR && currentDrag == "import")
             {
                 Console.WriteLine("adding imports");
-                Form1 importExplorer = new Form1(this);
+                /*
+                Button import1 = new Button();
+                import1.Name = "import1";
+                importGrid.Children.Add(import1);
+                import1.Height = 23;
+                import1.Width = 75;
+                import1.Content = "EMPTY";
+                Thickness __margin = new Thickness();
+                __margin = import1.Margin;
+                __margin.Left = importL - importR +(import1.Width);
+                __margin.Top = importT - importB - (import1.Height * 2);
+                import1.Margin = __margin;
+
+                */
+                
+
+                Button current_import = new Button();
+                current_import.Name = "import" + imports.Count;
+                importGrid.Children.Add(current_import);
+                imports.Add(current_import);
+                importBounds.Height = 34 * imports.Count;
+                current_import.Height = 23;
+                current_import.Width = 75;
+                current_import.Content = "EMPTY";
+                Thickness __margin = new Thickness();
+                __margin = current_import.Margin;
+                __margin.Left = importL - importR + (current_import.Width);
+                //__margin.Top = importT - importB - (current_import.Height * 2) +((current_import.Height * 2) * imports.Count);
+                __margin.Top = -(importBounds.Height) + (importB - importT);
+                current_import.Margin = __margin;
+                
+
+                Console.WriteLine("code window: " + codeWindow.Margin.Top);
+                Console.WriteLine("new button: " + current_import.Margin.Top);
+
+                
+
+                Form1 importExplorer = new Form1(this, current_import);
                 importExplorer.Show();
-                Console.WriteLine(explorerString);
-                explorerString = "";
+
+                //mainGrd.Children.Remove(btn_import);
+                //importGrid.Children.Add(btn_import);
+
+                foreach (FrameworkElement element in importGrid.Children)
+                {
+                    //try { }
+                    Console.WriteLine(element);
+                }
             }
-            else
-            {
-                Thickness _margin = new Thickness();
-                _margin = btn_import.Margin;
-                _margin.Left = starting_x;
-                _margin.Top = starting_y;
-                btn_import.Margin = _margin;
-            }
+            Thickness _margin = new Thickness();
+            _margin = btn_import.Margin;
+            _margin.Left = starting_x;
+            _margin.Top = starting_y;
+            btn_import.Margin = _margin;
         }
 
         private void var_MouseUp(object sender, MouseButtonEventArgs e)

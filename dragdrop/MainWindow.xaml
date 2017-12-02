@@ -8,13 +8,15 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid AllowDrop="True" x:Name="mainGrd">
 
-        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="225" Margin="149,94,0,0" Stroke="Black" VerticalAlignment="Top" Width="206"/>
-        <Rectangle x:Name="importBounds" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="34" Margin="149,94,0,0" Stroke="Black" VerticalAlignment="Top" Width="206"/>
-        <Rectangle x:Name="variableBounds" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="42" Margin="149,128,0,0" Stroke="Black" VerticalAlignment="Top" Width="206"/>
+        <Rectangle x:Name="codeWindow" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="225" Margin="149,94,0,0" Stroke="Black" VerticalAlignment="Top" Width="206"/>
+        <Grid AllowDrop="True" x:Name="importGrid">
+            <Rectangle x:Name="importBounds" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="34" Margin="149,94,0,0" Stroke="Black" VerticalAlignment="Top" Width="206"/>
+        </Grid>
+        <Rectangle x:Name="variableBounds" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="42" Margin="311,249,0,0" Stroke="Black" VerticalAlignment="Top" Width="206"/>
 
 
-        <Button Content="Import" Height="23" HorizontalAlignment="Left" Margin="23,31,0,0" Name="btn_import" VerticalAlignment="Top" Width="75" MouseLeftButtonUp="imp_MouseLeftButtonUp" MouseMove="btn_import_MouseMove" MouseUp="imp_MouseUp"/>
-        <Button x:Name="btn_variable" AllowDrop="True" Content="Variable" HorizontalAlignment="Left" Margin="10,81,0,0" VerticalAlignment="Top" Width="75" MouseLeftButtonUp="var_MouseLeftButtonUp" MouseMove="btn_variable_MouseMove" MouseUp="var_MouseUp"/>
+        <Button Content="Import" Height="23" HorizontalAlignment="Left" Margin="23,94,0,0" Name="btn_import" VerticalAlignment="Top" Width="75" MouseLeftButtonUp="imp_MouseLeftButtonUp" MouseMove="btn_import_MouseMove" MouseUp="imp_MouseUp"/>
+        <Button x:Name="btn_variable" AllowDrop="True" Content="Variable" HorizontalAlignment="Left" Margin="23,137,0,0" VerticalAlignment="Top" Width="75" MouseLeftButtonUp="var_MouseLeftButtonUp" MouseMove="btn_variable_MouseMove" MouseUp="var_MouseUp"/>
 
 
     </Grid>

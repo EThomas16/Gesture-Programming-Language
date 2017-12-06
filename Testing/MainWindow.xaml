@@ -1,0 +1,40 @@
+﻿<Window x:Class="CW2_Main.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CW2_Main"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="480" Width="640">
+
+    <Grid AllowDrop="True" x:Name="mainGrd">
+        <Border x:Name="codeBorder" BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200,140,0,0" Height="215" Width="206">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <Grid x:Name="codeWindow" HorizontalAlignment="Left" Height="215" Margin="0,0,0,0" VerticalAlignment="Top" Width="206"/>
+            </ScrollViewer>
+        </Border>
+        <!--<Grid AllowDrop="True" x:Name="importGrid">-->
+        <Border x:Name="importBorder" BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200,61,0,0" Height="34" Width="206">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <Grid x:Name="importBounds" HorizontalAlignment="Left" Height="34" Margin="0,0,0,0" VerticalAlignment="Top" Width="206">
+                    <Grid.RowDefinitions>
+
+                    </Grid.RowDefinitions>
+                </Grid>
+            </ScrollViewer>
+        </Border>
+        <!--</Grid>-->
+        <Border x:Name="variableBorder" BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" VerticalAlignment="Top" Height="34" Width="206" Margin="200,100,0,0">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <Grid x:Name="variableBounds" HorizontalAlignment="Left" Height="42" VerticalAlignment="Top" Width="206">
+                    <Grid.RowDefinitions>
+
+                    </Grid.RowDefinitions>
+                </Grid>
+            </ScrollViewer>
+        </Border>
+
+        <Button Content="Import" Height="23" HorizontalAlignment="Left" Margin="23,94,0,0" Name="btn_import" VerticalAlignment="Top" Width="75" MouseLeftButtonUp="imp_MouseLeftButtonUp" MouseMove="btn_import_MouseMove" MouseUp="imp_MouseUp"/>
+        <Button x:Name="btn_variable" AllowDrop="True" Content="Variable" HorizontalAlignment="Left" Margin="23,137,0,0" VerticalAlignment="Top" Width="75" MouseLeftButtonUp="var_MouseLeftButtonUp" MouseMove="btn_variable_MouseMove" MouseUp="var_MouseUp"/>
+    </Grid>
+</Window>

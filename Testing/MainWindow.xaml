@@ -3,9 +3,10 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
         xmlns:local="clr-namespace:CW2_Main"
         mc:Ignorable="d"
-        Title="MainWindow" Height="480" Width="640">
+        Title="MainWindow" Height="480" Width="640" Loaded="frmKinectInterface_Loading" Closing="frmKinectInterface_Colsing">
 
     <Grid AllowDrop="True" x:Name="mainGrd">
         <Border x:Name="codeBorder" BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200,140,0,0" Height="215" Width="206">
@@ -33,8 +34,14 @@
                 </Grid>
             </ScrollViewer>
         </Border>
+        <MediaElement  Height="113" HorizontalAlignment="Left" Margin="425,4,0,0" 
+Name="mediaElement1" VerticalAlignment="Top" Width="198" Source="\\c1stuhome2\STUHOME2\W\23008318\Downloads\CW2_Main-20171208T090802Z-001\CW2_Main\giphy.gif"
+LoadedBehavior="Play" Stretch="Fill" SpeedRatio="0.5" IsMuted="True" />
 
-        <Button Content="Import" Height="23" HorizontalAlignment="Left" Margin="23,94,0,0" Name="btn_import" VerticalAlignment="Top" Width="75" MouseLeftButtonUp="imp_MouseLeftButtonUp" MouseMove="btn_import_MouseMove" MouseUp="imp_MouseUp"/>
-        <Button x:Name="btn_variable" AllowDrop="True" Content="Variable" HorizontalAlignment="Left" Margin="23,137,0,0" VerticalAlignment="Top" Width="75" MouseLeftButtonUp="var_MouseLeftButtonUp" MouseMove="btn_variable_MouseMove" MouseUp="var_MouseUp"/>
+        <Button Content="Import (1)" Height="23" HorizontalAlignment="Left" Margin="23,94,0,0" Name="btn_import" VerticalAlignment="Top" Width="75" Panel.ZIndex="2"/>
+        <Button x:Name="btn_variable" AllowDrop="True" Content="Variable (2)" HorizontalAlignment="Left" Margin="23,137,0,0" VerticalAlignment="Top" Width="75"/>
+        <Canvas x:Name="canDraw" Height="480"   Width="640" Margin="0,0,-8,-31" Panel.ZIndex="1">
+            <!--<Image x:Name="imgVideo" HorizontalAlignment="Left" Height="480" Margin="0,0,0,0" VerticalAlignment="Top" Width="640" />-->
+        </Canvas>
     </Grid>
 </Window>

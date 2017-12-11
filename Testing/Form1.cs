@@ -42,6 +42,8 @@ namespace CW2_Main
         {
             back.explorerString = textBox1.Text;
             a.Content = textBox1.Text;
+            back.windowShown = false;
+            back.hasSelected = true;
             this.Close();
         }
 

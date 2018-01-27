@@ -1,0 +1,19 @@
+save
+run
+switch
+mute
+select
+undo
+start text
+back
+confirm
+decline
+test
+set
+value
+change title
+close
+unmute
+quiet
+help
+settings

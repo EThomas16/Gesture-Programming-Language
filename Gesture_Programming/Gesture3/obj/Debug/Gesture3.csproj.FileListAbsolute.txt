@@ -1,0 +1,189 @@
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\bin\Debug\Gesture3.exe.config
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\bin\Debug\Gesture3.exe
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\bin\Debug\Gesture3.pdb
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\Gesture3.csprojResolveAssemblyReference.cache
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\CodePage.g.cs
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\InputPage.g.cs
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\MainWindow.g.cs
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\MenuPage.g.cs
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\SettingsPage.g.cs
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\App.g.cs
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\Gesture3_MarkupCompile.cache
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\Gesture3_MarkupCompile.lref
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\CodePage.baml
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\InputPage.baml
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\MainWindow.baml
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\MenuPage.baml
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\SettingsPage.baml
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\Gesture3.g.resources
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\Gesture3.Properties.Resources.resources
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\Gesture3.csproj.GenerateResource.Cache
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\Gesture3.exe
+c:\users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\Gesture3.pdb
+C:\Users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\bin\Debug\Microsoft.Kinect.dll
+C:\Users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\bin\Debug\Microsoft.Speech.dll
+C:\Users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\bin\Debug\Microsoft.Kinect.xml
+C:\Users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\HelpPage.g.cs
+C:\Users\zjw19\documents\visual studio 2017\Projects\Gesture3\Gesture3\obj\Debug\HelpPage.baml
+F:\Documents\Programming\C#\Gesture3\Gesture3\bin\Debug\Gesture3.exe.config
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\Gesture3.exe
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\Gesture3.pdb
+F:\Documents\Programming\C#\Gesture3\Gesture3\bin\Debug\Gesture3.exe
+F:\Documents\Programming\C#\Gesture3\Gesture3\bin\Debug\Gesture3.pdb
+F:\Documents\Programming\C#\Gesture3\Gesture3\bin\Debug\Microsoft.Kinect.dll
+F:\Documents\Programming\C#\Gesture3\Gesture3\bin\Debug\Microsoft.Kinect.xml
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\Gesture3.csprojResolveAssemblyReference.cache
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\CodePage.g.cs
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\HelpPage.g.cs
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\InputPage.g.cs
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\MainWindow.g.cs
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\MenuPage.g.cs
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\SettingsPage.g.cs
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\App.g.cs
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\Gesture3_MarkupCompile.cache
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\Gesture3_MarkupCompile.lref
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\CodePage.baml
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\HelpPage.baml
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\InputPage.baml
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\MainWindow.baml
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\MenuPage.baml
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\SettingsPage.baml
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\Gesture3.g.resources
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\Gesture3.Properties.Resources.resources
+F:\Documents\Programming\C#\Gesture3\Gesture3\obj\Debug\Gesture3.csproj.GenerateResource.Cache
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\bin\Debug\Gesture3.exe.config
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\bin\Debug\Gesture3.exe
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\bin\Debug\Gesture3.pdb
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\CodePage.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\HelpPage.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\InputPage.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\MainWindow.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\MenuPage.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\SettingsPage.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\App.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3_MarkupCompile.cache
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3_MarkupCompile.lref
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\CodePage.baml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\HelpPage.baml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\InputPage.baml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\MainWindow.baml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\MenuPage.baml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\SettingsPage.baml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3.g.resources
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3.Properties.Resources.resources
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3.csproj.GenerateResource.Cache
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3.exe
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3.pdb
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\bin\Debug\Gesture3.exe.config
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\bin\Debug\Gesture3.exe
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\bin\Debug\Gesture3.pdb
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\bin\Debug\Microsoft.Kinect.dll
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\bin\Debug\Microsoft.Kinect.xml
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3.csprojResolveAssemblyReference.cache
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\CodePage.g.cs
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\HelpPage.g.cs
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\InputPage.g.cs
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\MainWindow.g.cs
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\MenuPage.g.cs
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\SettingsPage.g.cs
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\App.g.cs
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3_MarkupCompile.cache
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3_MarkupCompile.lref
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\CodePage.baml
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\HelpPage.baml
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\InputPage.baml
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\MainWindow.baml
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\MenuPage.baml
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\SettingsPage.baml
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3.g.resources
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3.Properties.Resources.resources
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3.csproj.GenerateResource.Cache
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3.exe
+D:\CW2_Main_v0.6-20180104T093936Z-001\CW2_Main_v0.6\Gesture3\Gesture3\obj\Debug\Gesture3.pdb
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\bin\Debug\Gesture3.exe.config
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\bin\Debug\Gesture3.exe
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\bin\Debug\Gesture3.pdb
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\Gesture3.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\CodePage.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\HelpPage.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\InputPage.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\MainWindow.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\MenuPage.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\SettingsPage.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\App.g.cs
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\Gesture3_MarkupCompile.cache
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\Gesture3_MarkupCompile.lref
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\CodePage.baml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\HelpPage.baml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\InputPage.baml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\MainWindow.baml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\MenuPage.baml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\SettingsPage.baml
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\Gesture3.g.resources
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\Gesture3.Properties.Resources.resources
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\Gesture3.csproj.GenerateResource.Cache
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\Gesture3.exe
+C:\Users\Erik\Documents\Programming\C#\CW2_Main_v0.7\Gesture3\Gesture3\obj\Debug\Gesture3.pdb
+F:\Documents\Programming\C#\Interface_CW2_Main\CW2_Main_v0.8\Gesture3\Gesture3\bin\Debug\Gesture3.exe.config
+F:\Documents\Programming\C#\Interface_CW2_Main\CW2_Main_v0.8\Gesture3\Gesture3\obj\Debug\Gesture3.exe
+F:\Documents\Programming\C#\Interface_CW2_Main\CW2_Main_v0.8\Gesture3\Gesture3\obj\Debug\Gesture3.pdb
+F:\Documents\University work (Computing)\Year Three\Interface Programming\Coursework\Coursework Two\Final\Interface_Programming_CW2_Source_Code\Gesture3\bin\Debug\Gesture3.exe.config
+F:\Documents\University work (Computing)\Year Three\Interface Programming\Coursework\Coursework Two\Final\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.exe
+F:\Documents\University work (Computing)\Year Three\Interface Programming\Coursework\Coursework Two\Final\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.pdb
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\bin\Debug\Gesture3.exe.config
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\bin\Debug\Gesture3.exe
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\bin\Debug\Gesture3.pdb
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\CodePage.g.cs
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\HelpPage.g.cs
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\InputPage.g.cs
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\MainWindow.g.cs
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\MenuPage.g.cs
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\SettingsPage.g.cs
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\App.g.cs
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3_MarkupCompile.cache
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3_MarkupCompile.lref
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\CodePage.baml
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\HelpPage.baml
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\InputPage.baml
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\MainWindow.baml
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\MenuPage.baml
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\SettingsPage.baml
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.g.resources
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.Properties.Resources.resources
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.csproj.GenerateResource.Cache
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.exe
+C:\Users\Erik\Documents\University work\Year Three\Interface Programming\Final\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.pdb
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\bin\Debug\Gesture3.exe.config
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\bin\Debug\Gesture3.exe
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\bin\Debug\Gesture3.pdb
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\CodePage.g.cs
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\HelpPage.g.cs
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\InputPage.g.cs
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\MainWindow.g.cs
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\MenuPage.g.cs
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\SettingsPage.g.cs
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\App.g.cs
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3_MarkupCompile.cache
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3_MarkupCompile.lref
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\CodePage.baml
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\HelpPage.baml
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\InputPage.baml
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\MainWindow.baml
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\MenuPage.baml
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\SettingsPage.baml
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.g.resources
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.Properties.Resources.resources
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.csproj.GenerateResource.Cache
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.exe
+C:\Users\Erik\Documents\Project_Pekin_CW2\Interface_Programming_CW2_Source_Code\Gesture3\obj\Debug\Gesture3.pdb

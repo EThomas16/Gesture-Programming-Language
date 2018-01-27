@@ -1,0 +1,48 @@
+﻿<Page x:Class="Gesture3.Menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Gesture3"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="Menu">
+
+    <Grid>
+        <Canvas x:Name="cursorC" Panel.ZIndex="1">
+            <Image Width="100" Height="100" x:Name="cursor" Panel.ZIndex="2" Canvas.Left="738" Canvas.Top="193" RenderTransformOrigin="1.51,0.482"/>
+        </Canvas>
+        <Canvas Panel.ZIndex="0">
+            <Button x:Name="btn_new" Content="New">
+                <Button.BitmapEffect>
+                    <DropShadowBitmapEffect Color="Black" Direction="0" ShadowDepth="10" Opacity=".5"/>
+                </Button.BitmapEffect>
+            </Button>
+            <Button x:Name="btn_open" Content="Open">
+                <Button.BitmapEffect>
+                    <DropShadowBitmapEffect Color="Black" Direction="0" ShadowDepth="10" Opacity=".5"/>
+                </Button.BitmapEffect>
+            </Button>
+            <Button x:Name="btn_settings" Content="Settings">
+                <Button.BitmapEffect>
+                    <DropShadowBitmapEffect Color="Black" Direction="0" ShadowDepth="10" Opacity=".5"/>
+                </Button.BitmapEffect>
+            </Button>
+            <Button x:Name="btn_help" Content="Help">
+                <Button.BitmapEffect>
+                    <DropShadowBitmapEffect Color="Black" Direction="0" ShadowDepth="10" Opacity=".5"/>
+                </Button.BitmapEffect>
+            </Button>
+            <Button x:Name="btn_quit" Content="Quit">
+                <Button.BitmapEffect>
+                    <DropShadowBitmapEffect Color="Black" Direction="320" ShadowDepth="10" Opacity=".5"/>
+                </Button.BitmapEffect>
+            </Button>
+            <Label x:Name="lbl_title" Content="CIS3118 - Coursework">
+                <Label.BitmapEffect>
+                    <DropShadowBitmapEffect Color="Black" Direction="320" ShadowDepth="10" Opacity=".5"/>
+                </Label.BitmapEffect>
+            </Label>
+        </Canvas>
+    </Grid>
+</Page>

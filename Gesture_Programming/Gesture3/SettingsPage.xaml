@@ -1,0 +1,41 @@
+﻿<Page x:Class="Gesture3.SettingsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Gesture3"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="SettingsPage">
+
+    <Grid x:Name="settingsGrid">
+        <Canvas x:Name="cursorC" Panel.ZIndex="1">
+            
+        </Canvas>
+        <Canvas Panel.ZIndex="0">
+            <Button x:Name="btn_back" Content="Back">
+                <Button.BitmapEffect>
+                    <DropShadowBitmapEffect Color="Black" Direction="360" ShadowDepth="10" Opacity=".5"/>
+                </Button.BitmapEffect>
+            </Button>
+            <Button x:Name="btn_apply" Content="Apply" Width="75"/>
+            <Label x:Name="lbl_Volume" Content="Volume: "/>
+            <Label x:Name="lbl_screenSize" Content="Screen Size: "/>
+            <Label x:Name="lbl_textSize" Content="Text Size: "/>
+            <Label x:Name="lbl_hand" Content="Tracked Hand: "/>
+            <Button x:Name="btn_normScreen" Content="Normal"/>
+            <Button x:Name="btn_largeScreen" Content="Large"/>
+            <Slider x:Name="sld_volume" Canvas.Left="192"/>
+            <Button x:Name="btn_normText" Content="Normal"/>
+            <Button x:Name="btn_largeText" Content="Large"/>
+            <Button x:Name="btn_Left" Content="Left"/>
+            <Button x:Name="btn_Right" Content="Right"/>
+            <Label x:Name="lbl_title" Content="Settings">
+                <Label.BitmapEffect>
+                    <DropShadowBitmapEffect Color="Black" Direction="360" ShadowDepth="10" Opacity=".5"/>
+                </Label.BitmapEffect>
+            </Label>
+            <!--<Button x:Name="button" Content="Button" Canvas.Left="22" Canvas.Top="85" Width="75"/>-->
+        </Canvas>
+    </Grid>
+</Page>

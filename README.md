@@ -1,4 +1,4 @@
-# Gesture-Based-Programming-Language
+# Gesture-Based-Programming
 This gesture based programming language uses a custom API to recognise and manage a small set of gestures. This program is built on-top of the Kinect SDK v1.8, allowing for full skeletal tracking for multiple people. The program allows for users to code in Python by performing various gestures  to select and move different types of statement. The program can be dynamically compiled using the Python 2.7 compiler, this being included with the download of the program.
 
 ## Contents

@@ -20,4 +20,4 @@ A full video of demonstrating the creation of a program can be found [**here**.]
  - [Microsoft Kinect SDK v1.8](https://www.microsoft.com/en-gb/download/details.aspx?id=40278)
 
 ## Authors
-  [Erik Thomas](https://github.com/Fyrngarm) & [Zach Wharton](https://github.com/zwharton15), with the program being maintained by both of these authors.
+  [Erik Thomas](https://github.com/EThomas16) & [Zach Wharton](https://github.com/zwharton15), with the program being maintained by both of these authors.
